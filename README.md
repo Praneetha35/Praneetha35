@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Praneetha<br>I’m a Computer Science Master's student at Western Michigan University, passionate about crafting digital experiences through app development and innovative tech solutions, including Machine Learning. When I’m not coding, you can find me engrossed in gripping crime thrillers or exploring the culinary world.
+👋 Hi there! I’m Praneetha<br>I’m a Computer Science Master's student at Western Michigan University, passionate about crafting digital experiences through app development and Machine Learning. When I’m not coding, you can find me engrossed in gripping crime thrillers or exploring the culinary world.
 
 
 ## 🌐 Socials:
